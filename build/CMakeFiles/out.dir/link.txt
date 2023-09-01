@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/out.dir/helpers/warriors.cpp.o CMakeFiles/out.dir/helpers/knight.cpp.o CMakeFiles/out.dir/main.cpp.o -o out 

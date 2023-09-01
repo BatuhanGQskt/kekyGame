@@ -1,0 +1,3 @@
+/home/batuhangunduz/Desktop/TUM/1Lecture notes/MQT-Learning/C++/combat_dungeon/build/CMakeFiles/out.dir
+/home/batuhangunduz/Desktop/TUM/1Lecture notes/MQT-Learning/C++/combat_dungeon/build/CMakeFiles/edit_cache.dir
+/home/batuhangunduz/Desktop/TUM/1Lecture notes/MQT-Learning/C++/combat_dungeon/build/CMakeFiles/rebuild_cache.dir
